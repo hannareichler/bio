@@ -1,0 +1,39 @@
+@font-face {
+  font-family: dia;
+  src: url(font/Dia-Black.otf);
+}
+
+.type {
+	font-family: dia, sans-serif;
+	font-size: 28pt;
+	color: #D97E8E;
+	text-align: center;
+	width: 100%;
+	position: absolute;
+}
+
+#image1{
+	width: 33%;
+	float: center;
+	margin-top: 70pt;
+}
+
+#image2{
+	width: 33%;
+	float: center;
+	margin-top: 70pt;
+}
+
+#image3 {
+	width: 33%;
+	float: center;
+	margin-top: 70pt;
+}
+
+
+.clear {
+	-webkit-box-reflect: right;
+}
+.clear1 {
+	-webkit-box-reflect: left;
+}
